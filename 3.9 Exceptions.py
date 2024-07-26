@@ -31,7 +31,7 @@ assert employee_of_the_year == "Suzanne"
 # we use try and except block to spot and handle them
 # example 1
 try:
-    print(random_varialble)
+    print(random_variable)
 except:
     print("Exception alert!")
 
@@ -61,4 +61,3 @@ except:
     print("There's something wrong with our program!")
 finally: 
     print("Let's run our program anyway")
-    
