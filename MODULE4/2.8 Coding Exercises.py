@@ -5,8 +5,8 @@ def display_average():
 
 def average_calc():
     ###
-    ave = len(average_buys)
-    get_sum = sum(average_buys)
+    ave = len(items)
+    get_sum = sum(items)
 
     # computation
     average = get_sum / ave
