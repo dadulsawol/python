@@ -1,1 +1,2 @@
-df = pd.read_csv(".python\module4\population_by_country_2020.csv")
+rain[train['Order Year'] == '2018']
+print(sales_2018)
